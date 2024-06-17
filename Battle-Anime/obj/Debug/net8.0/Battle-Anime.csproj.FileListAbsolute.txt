@@ -1,0 +1,14 @@
+C:\Users\aqila\Documents\Activity\Personal Data\Projects\C#\Battle-Anime\Battle-Anime\bin\Debug\net8.0\Battle-Anime.exe
+C:\Users\aqila\Documents\Activity\Personal Data\Projects\C#\Battle-Anime\Battle-Anime\bin\Debug\net8.0\Battle-Anime.deps.json
+C:\Users\aqila\Documents\Activity\Personal Data\Projects\C#\Battle-Anime\Battle-Anime\bin\Debug\net8.0\Battle-Anime.runtimeconfig.json
+C:\Users\aqila\Documents\Activity\Personal Data\Projects\C#\Battle-Anime\Battle-Anime\bin\Debug\net8.0\Battle-Anime.dll
+C:\Users\aqila\Documents\Activity\Personal Data\Projects\C#\Battle-Anime\Battle-Anime\bin\Debug\net8.0\Battle-Anime.pdb
+C:\Users\aqila\Documents\Activity\Personal Data\Projects\C#\Battle-Anime\Battle-Anime\obj\Debug\net8.0\Battle-Anime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aqila\Documents\Activity\Personal Data\Projects\C#\Battle-Anime\Battle-Anime\obj\Debug\net8.0\Battle-Anime.AssemblyInfoInputs.cache
+C:\Users\aqila\Documents\Activity\Personal Data\Projects\C#\Battle-Anime\Battle-Anime\obj\Debug\net8.0\Battle-Anime.AssemblyInfo.cs
+C:\Users\aqila\Documents\Activity\Personal Data\Projects\C#\Battle-Anime\Battle-Anime\obj\Debug\net8.0\Battle-Anime.csproj.CoreCompileInputs.cache
+C:\Users\aqila\Documents\Activity\Personal Data\Projects\C#\Battle-Anime\Battle-Anime\obj\Debug\net8.0\Battle-Anime.dll
+C:\Users\aqila\Documents\Activity\Personal Data\Projects\C#\Battle-Anime\Battle-Anime\obj\Debug\net8.0\refint\Battle-Anime.dll
+C:\Users\aqila\Documents\Activity\Personal Data\Projects\C#\Battle-Anime\Battle-Anime\obj\Debug\net8.0\Battle-Anime.pdb
+C:\Users\aqila\Documents\Activity\Personal Data\Projects\C#\Battle-Anime\Battle-Anime\obj\Debug\net8.0\Battle-Anime.genruntimeconfig.cache
+C:\Users\aqila\Documents\Activity\Personal Data\Projects\C#\Battle-Anime\Battle-Anime\obj\Debug\net8.0\ref\Battle-Anime.dll
